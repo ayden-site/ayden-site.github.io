@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://snowrider3d-game.vercel.app" # Link to the webpage to redirect to 
+        "page": "https://snowrider3d.vercel.app/game.html" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
